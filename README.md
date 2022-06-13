@@ -1,2 +1,2 @@
 # Election_Analysis
-Complet election analysis with python
+Complete election analysis with python
