@@ -57,6 +57,10 @@ Key resources for the project included:
 	- Python version 3.10
 	- GitBash - version 2.36.1.1
 	- Microsoft command prompt - version 10.0.2200.856
+Outputs:
+	- Elecrtion_results.txt - text file of script outputs
+	- Election_Results_in_Terminal.png - snip of terminal outputs from script.
+	- PyPoll_Challenge - python script in VSCode for challenge
 	
 
 	
